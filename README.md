@@ -1,4 +1,3 @@
-Mini CRM - PHP ile basit müşteri ve sipariş yönetimi
 
 Özellikler:
 Giriş ekranı
